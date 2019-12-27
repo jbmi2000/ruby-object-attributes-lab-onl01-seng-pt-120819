@@ -5,5 +5,6 @@ class Dog
 
   def name
     puts "#{dog_name}"
+  end
 
 end
