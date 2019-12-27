@@ -17,5 +17,4 @@ def job
   @job
 end
 end
-binding.pry 
-
+binding.pry
